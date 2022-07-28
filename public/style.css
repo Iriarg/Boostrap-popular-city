@@ -1,0 +1,63 @@
+.bg-image {
+    margin-bottom: 3em;
+}
+
+.list-group {
+    margin-right: 1.5em;
+    border-radius: 1em;
+}
+
+#ranking {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 1em;
+}
+
+.list-group-item {
+    padding: 2em;
+    margin: 1em;
+    border-radius: 1em;
+    color: white;
+}
+
+.ranking-container {
+    border: solid black 1px;
+    border-radius: 1em;
+    text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+#itaewon-ranking {
+    background-image: url(photos/Itaewon.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#gangnam-ranking {
+    background-image: url(photos/Gangnam-gu.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#hongdae-ranking {
+    background-image: url(photos/Hongdae.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#jongno-ranking {
+    background-image: url(photos/Jongno-gu.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#jung-ranking {
+    background-image: url(photos/Jung-gu.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#sinchon-ranking {
+    background-image: url(photos/Sinchon.jpg);
+    background-size: cover;
+    background-position: center;
+}
